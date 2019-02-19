@@ -1,4 +1,10 @@
 * {
   font-family: 'Roboto Condensed', sans-serif;
-  color: black
+  color: black;
+  background-color: antiquewhite;
 }
+
+h1 {
+  font: bold;
+}
+
